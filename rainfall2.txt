@@ -1,0 +1,25 @@
+Season,Month,Rainfall
+Season A,January,85
+Season A,February,72
+Season A,March,110
+Season A,April,95
+Season A,May,45
+Season A,June,20
+Season A,July,10
+Season A,August,15
+Season A,September,30
+Season A,October,65
+Season A,November,120
+Season A,December,100
+Season B,January,100
+Season B,February,90
+Season B,March,130
+Season B,April,115
+Season B,May,60
+Season B,June,35
+Season B,July,25
+Season B,August,30
+Season B,September,45
+Season B,October,80
+Season B,November,140
+Season B,December,125

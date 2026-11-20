@@ -1,0 +1,17 @@
+RAINFALL ANALYSIS REPORT
+
+Season: Season A
+Total rainfall: 767.0 mm
+Average rainfall: 63.92 mm
+Highest rainfall: November
+Lowest rainfall: July
+Months below threshold: ['May', 'June', 'July', 'August', 'September']
+
+Season: Season B
+Total rainfall: 975.0 mm
+Average rainfall: 81.25 mm
+Highest rainfall: November
+Lowest rainfall: July
+Months below threshold: ['June', 'July', 'August', 'September']
+
+Season comparison: Season B was wetter.
